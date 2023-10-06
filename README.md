@@ -1,8 +1,5 @@
-Dưới đây là đoạn văn được sắp xếp lại và định dạng để đẹp hơn trong tệp markdown:
-
+Bài tập trong Slide trang 80
 ---
-
-**Mô tả yêu cầu:**
 
 Lập trình viên A đang phát triển ứng dụng quản lý mua bán cà phê cho một công ty. Công ty này bán các sản phẩm cà phê với thông tin gồm mã loại cà phê, tên loại cà phê, số lượng và đơn giá. Có tổng cộng 4 loại cà phê và cách tính thành tiền cho mỗi loại như sau:
 
